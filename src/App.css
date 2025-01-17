@@ -1,0 +1,41 @@
+.nav-link {
+    font-weight: 400 !important;
+    font-size: 14px !important;
+    color: rgba(32, 32, 32, 1) !important;
+    margin-right: 3px;
+    padding: 5px ;
+    border-bottom: 3px solid transparent !important;
+    transition: all 0.3s ease-in-out !important;
+}
+.nav-link:hover{
+    border: rgba(0, 129, 57, 1) !important;
+}
+.icons{
+    color: rgba(0, 129, 57, 1) !important;
+    font-size: 15px !important;
+}
+
+.horse-img {
+    width: 70% !important;      
+}
+.backrasm{
+    background: url(./assets/foto/background.png) !important;
+        background-position: center !important;
+        background-repeat: no-repeat !important;
+        background-size: cover !important;
+} 
+.text{
+    color: #7E7E7E;
+
+}
+.green{
+   color: #008139;
+   font-family: Philosopher;
+   font-size: 42px;
+   font-weight: 700;
+   line-height: 67.2px;
+   text-align: left;
+   text-underline-position: from-font;
+   text-decoration-skip-ink: none;
+    
+}
