@@ -1,4 +1,4 @@
-import './app.css'
+import './App.css'
 //botstreapni css
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Navbar } from 'react-bootstrap';
