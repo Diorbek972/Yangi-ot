@@ -6,6 +6,7 @@ import { Navbar } from 'react-bootstrap';
 import MainNavbar from './components/MainNavbar';
 import Baner from './components/banner'
 import AboutClub from './components/AboutClub';
+import NegaTanlashdi from './components/NegaTanlashdi';
 function App() {
   return (
     <div>
@@ -16,10 +17,9 @@ function App() {
      </div>
      <div>
       <AboutClub/>
-      <div>
-        
-      </div>
-      
+     </div>
+     <div>
+      <NegaTanlashdi/>
      </div>
     </div>
     
