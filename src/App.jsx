@@ -7,6 +7,7 @@ import MainNavbar from './components/MainNavbar';
 import Baner from './components/banner'
 import AboutClub from './components/AboutClub';
 import NegaTanlashdi from './components/NegaTanlashdi';
+import Club from './components/Club';
 function App() {
   return (
     <div>
@@ -20,6 +21,9 @@ function App() {
      </div>
      <div>
       <NegaTanlashdi/>
+     </div>
+     <div>
+      <Club/>
      </div>
     </div>
     
