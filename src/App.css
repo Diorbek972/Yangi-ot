@@ -39,3 +39,17 @@
    text-decoration-skip-ink: none;
     
 }
+.backrasm-ikinchi{
+    background: url(./assets/foto/gazon.png) !important;
+        background-position: center !important;
+        background-repeat: no-repeat !important;
+        background-size: cover !important;
+} 
+
+.cards{
+    background-color: white;
+}
+.chiziqcha{
+    color: #008139;
+
+}
