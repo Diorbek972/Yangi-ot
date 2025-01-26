@@ -8,6 +8,7 @@ import Baner from './components/banner'
 import AboutClub from './components/AboutClub';
 import NegaTanlashdi from './components/NegaTanlashdi';
 import Club from './components/Club';
+import Sayoh from './components/Sayoh';
 function App() {
   return (
     <div>
@@ -24,6 +25,9 @@ function App() {
      </div>
      <div>
       <Club/>
+     </div>
+     <div>
+      <Sayoh/>
      </div>
     </div>
     

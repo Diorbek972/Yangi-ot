@@ -53,3 +53,21 @@
     color: #008139;
 
 }
+.img-fotos{
+    width: 19%;
+}
+.icon{
+   
+}
+.icon-color{
+    background: linear-gradient(180deg, #9BCFFF 0%, #FFF8B6 0.01%, #FFC700 100%);
+    width: 30px;
+    height: 30px;
+    padding: 10px;
+    border-radius: 50%;
+}
+.inline{
+    display: inline-block !important;
+    color: #FFC700 ;
+
+}
