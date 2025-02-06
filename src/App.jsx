@@ -9,11 +9,12 @@ import AboutClub from './components/AboutClub';
 import NegaTanlashdi from './components/NegaTanlashdi';
 import Club from './components/Club';
 import Sayoh from './components/Sayoh';
+import BizningOtlarimiz from './components/BizningOtlarimiz';
+import SavolarTop from './components/SavolarTop';
 function App() {
   return (
     <div>
      <div className='backrasm '>
-     <Navbar />
       <MainNavbar />
       <Baner />
      </div>
@@ -28,6 +29,12 @@ function App() {
      </div>
      <div>
       <Sayoh/>
+     </div>
+     <div>
+      <BizningOtlarimiz/>
+     </div>
+     <div>
+      <SavolarTop/>
      </div>
     </div>
     

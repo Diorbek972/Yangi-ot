@@ -20,9 +20,9 @@
 }
 .backrasm{
     background: url(./assets/foto/background.png) !important;
-        background-position: center !important;
-        background-repeat: no-repeat !important;
-        background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
 } 
 .text{
     color: #7E7E7E;
@@ -70,4 +70,19 @@
     display: inline-block !important;
     color: #FFC700 ;
 
+}
+/* bizni otlar */
+.bacrounds{
+    background-color: #EAEAEA;
+    display: inline;
+}
+.display-block{
+    display: inline-block;
+    width: 16%;
+    margin-right: 14px;
+}
+.position-relative{
+    position: relative;
+    bottom: 30px;
+    
 }
