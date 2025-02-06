@@ -33,7 +33,7 @@ function App() {
      <div>
       <BizningOtlarimiz/>
      </div>
-     <div>
+     <div className='backrasm-uchinchi'>
       <SavolarTop/>
      </div>
     </div>
