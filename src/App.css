@@ -73,7 +73,8 @@
 }
 /* bizni otlar */
 .bacrounds{
-    background-color: #EAEAEA;
+    border: 1px solid #EAEAEA;
+    box-shadow: black 0px 0px 30px 1px;
     display: inline;
 }
 .display-block{
@@ -93,5 +94,9 @@
         background-size: cover !important;
 } 
 .qizcha{
-    width: 1000px;
+    width: 100%;
+}
+.icon-with{
+    font-size: 30px;
+
 }

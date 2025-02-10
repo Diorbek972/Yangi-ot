@@ -16,20 +16,20 @@ export default function BizningOtlarimiz() {
     return (
         <div className='container'>
             <h2 className='text-center'>Наши лошади</h2>
-            <div className='mt-5 w-100'>
-            <div className="box-size display-block opacity-50  position-relative">
+            <div className='row'>
+            <div className="box-size display-block col-md-2  opacity-50  position-relative">
             <BizniOtlar otlarimiz={otrasmi1} otlarNomlari={"Жазель"} />
             </div>
-            <div className="box-size mt-3  display-block mx-4">
+            <div className="box-size mt-3  display-block mx-4 col-md-2 ">
             <BizniOtlar otlarimiz={otrasmi2} otlarNomlari={"Юджин"} />
             </div>
-            <div className="box-size mt-3  display-block mx-4" >
+            <div className="box-size mt-3  display-block mx-4 col-md-2 " >
             <BizniOtlar otlarimiz={otrasmi3} otlarNomlari={"Мелисса"} />
             </div>
-            <div className="box-size mt-3  display-block mx-4">
+            <div className="box-size mt-3  display-block mx-4 col-md-2 ">
             <BizniOtlar otlarimiz={otrasmi4} otlarNomlari={"Циан"} />
             </div>
-            <div className="box-size display-block  opacity-50 position-relative">
+            <div className="box-size display-block  opacity-50 col-md-2  position-relative">
             <BizniOtlar otlarimiz={otrasmi5} otlarNomlari={"Хесана"} />
             </div>
                        <div className='text-center'>

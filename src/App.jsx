@@ -11,6 +11,7 @@ import Club from './components/Club';
 import Sayoh from './components/Sayoh';
 import BizningOtlarimiz from './components/BizningOtlarimiz';
 import SavolarTop from './components/SavolarTop';
+import KlientlarGpi from './components/KlientlarGpi';
 function App() {
   return (
     <div>
@@ -35,6 +36,9 @@ function App() {
      </div>
      <div className='backrasm-uchinchi'>
       <SavolarTop/>
+     </div>
+     <div>
+     <KlientlarGpi/>
      </div>
     </div>
     
