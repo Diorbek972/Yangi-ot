@@ -6,7 +6,7 @@ import { TiSocialFacebookCircular } from "react-icons/ti";
 
 export default function KlientlarGaplari({ sozlar, odamrasmi, isimlar }) {
   return (
-    <div className='shadow py-3 px-4'>
+    <div className='shadow py-3 px-4 '>
       <p>{sozlar}</p>
       <button class="btn shadow text-success d-block mx-auto my-4" data-bs-toggle="button">Подробнее <SlArrowDown /></button>
       <img src={odamrasmi} className='d-inline' alt="" />

@@ -100,3 +100,9 @@
     font-size: 30px;
 
 }
+.backrasm-beshinchi{
+    background: url(./assets/foto/bacround-5.png) !important;
+        background-position: center !important;
+        background-repeat: no-repeat !important;
+        background-size: cover !important;
+} 

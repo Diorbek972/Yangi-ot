@@ -12,6 +12,8 @@ import Sayoh from './components/Sayoh';
 import BizningOtlarimiz from './components/BizningOtlarimiz';
 import SavolarTop from './components/SavolarTop';
 import KlientlarGpi from './components/KlientlarGpi';
+import OhirgiQismi from './components/OhirgiQismi';
+import Footer from './components/Footer';
 function App() {
   return (
     <div>
@@ -39,6 +41,12 @@ function App() {
      </div>
      <div>
      <KlientlarGpi/>
+     </div>
+     <div className='backrasm-beshinchi'>
+      <OhirgiQismi/>
+     </div>
+     <div>
+      <Footer/>
      </div>
     </div>
     
