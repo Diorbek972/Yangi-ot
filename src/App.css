@@ -85,7 +85,6 @@
 .position-relative{
     position: relative;
     bottom: 30px;
-    
 }
 .backrasm-uchinchi{
     background: url(./assets/foto/fonrasm2.png) !important;
@@ -105,4 +104,5 @@
         background-position: center !important;
         background-repeat: no-repeat !important;
         background-size: cover !important;
-} 
+}       
+                

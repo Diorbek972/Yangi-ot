@@ -13,7 +13,7 @@ export default function SavolarTop() {
     const botid = "6991682621"
     const [show, setShow] = useState(false);
     const handleClose = () => setShow(false);
-    const handleShow = () => setShow(true);
+    const handleShow = () => setShow(true); 
 
     const [name, setname] = useState("")
     const [number, setnumber] = useState("")
