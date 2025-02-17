@@ -17,10 +17,10 @@ export default function NegaTanlashdi() {
         <NegaTanlashadi img={chair} texts={"Обеденная зона "} decriptions={"Имеется столовая, чтобы Вы могли  перекусить и немного отдохнуть. Бесплатно чай, кофе, печенки."}/>
      </div>
      <div className="col-md-3">
-        <NegaTanlashadi img={clok} texts={"Профессиональные тренера"} decriptions={"Наши преподаватели имеют награды в конном спорте, и отличные отзывы среди наших учеников"}/>
+        <NegaTanlashadi img={cars} texts={"Профессиональные тренера"} decriptions={"Наши преподаватели имеют награды в конном спорте, и отличные отзывы среди наших учеников"}/>
      </div>
      <div className="col-md-3">
-        <NegaTanlashadi img={cars} texts={"Бесплатная парковка"} decriptions={"У нас имеется просторная парковка, чтобы вы могли без проблем припарковать свой автомобиль"}/>
+        <NegaTanlashadi img={clok} texts={"Бесплатная парковка"} decriptions={"У нас имеется просторная парковка, чтобы вы могли без проблем припарковать свой автомобиль"}/>
      </div>
             </div>
         </div>
