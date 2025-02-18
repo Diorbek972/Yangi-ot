@@ -20,7 +20,7 @@ export default function NegaTanlashdi() {
         <NegaTanlashadi img={clok} texts={"Профессиональные тренера"} decriptions={"Наши преподаватели имеют награды в конном спорте, и отличные отзывы среди наших учеников"}/>
      </div>
      <div className="col-md-3">
-        <NegaTanlashadi img={cars} texts={"Бесплатная парковка d"} decriptions={"У нас имеется просторная парковка, чтобы вы могли без проблем припарковать свой автомобиль"}/>
+        <NegaTanlashadi img={cars} texts={"Бесплатная парковка "} decriptions={"У нас имеется просторная парковка, чтобы вы могли без проблем припарковать свой автомобиль"}/>
      </div>
             </div>
         </div>
